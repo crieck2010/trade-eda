@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: trade-eda
+Version: 0.1.0
+Summary: Correlation, covariance, and exploratory data analysis for the trade-suite
+Author: crieck2010
+License: MIT
+Project-URL: Homepage, https://github.com/crieck2010/trade-eda
+Project-URL: Repository, https://github.com/crieck2010/trade-eda
+Keywords: trading,correlation,covariance,eda,finance
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Office/Business :: Financial
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Requires-Dist: pytest>=7; extra == "dev"

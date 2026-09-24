@@ -1,0 +1,17 @@
+pyproject.toml
+src/trade_eda/__init__.py
+src/trade_eda/__main__.py
+src/trade_eda/adapters.py
+src/trade_eda/cli.py
+src/trade_eda/correlation.py
+src/trade_eda/covariance.py
+src/trade_eda/demo.py
+src/trade_eda/describe.py
+src/trade_eda/licensing.py
+src/trade_eda.egg-info/PKG-INFO
+src/trade_eda.egg-info/SOURCES.txt
+src/trade_eda.egg-info/dependency_links.txt
+src/trade_eda.egg-info/entry_points.txt
+src/trade_eda.egg-info/requires.txt
+src/trade_eda.egg-info/top_level.txt
+tests/test_eda.py

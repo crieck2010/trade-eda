@@ -1,0 +1,2 @@
+[console_scripts]
+trade-eda = trade_eda.cli:main
